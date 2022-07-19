@@ -5,5 +5,7 @@ App Android Nativo de Simulação de Partidas. Este repositório foi organizado 
  Desenvolvimento Mobile Nativo para Android 
 
  Componentes, layouts e UI/UX Em Apps Android
+ 
+ Java e Kotlin Juntos? Construindo Apps Android
 
 
