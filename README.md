@@ -7,5 +7,7 @@ App Android Nativo de Simulação de Partidas. Este repositório foi organizado 
  Componentes, layouts e UI/UX Em Apps Android
  
  Java e Kotlin Juntos? Construindo Apps Android
+ 
+ Explorando o Firebase para Apps Android Resilientes
 
 
